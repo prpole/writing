@@ -89,9 +89,19 @@ Third: the "consciousness" of history as the human mode of becoming appears to b
 
 Finally, the statement itself. Its content is mostly a distillation of the above, except for the following: by pointing to history as the *true* natural history of man, Marx specifies the locus of the human essence, not in the unconscious, determined, received corporeal substratum, but in the version of the human that includes the mutable "inorganic body" of nature. Species-being defined by the "essential powers" is the fundamental aspect of the human. This species-being is part of a "naturalistic" paradigm, but it is always the active rather than the passive version of that paradigm that defines the human essence for Marx.
 
+In what sense is history meant, though, and what does it mean materially for the human essence to take history as its "origin"? In a certain sense, to answer this question is to scale up the idea of technological, prosthetic essence above and arrive at "industry":
+
+> It can be seen how the history of *industry* and the *objective* existence of industry as it has developed is the *open* book of the essential powers of man, man's psychology present in tangible form; up to now this history has not been grasped in its connection with the *nature* of man, but only in an external utilitarian aspect…. (354)
+
+> *Industry* is the *real* historical relationship of nature, and hence of natural science, to man. …Nature as it comes into being in human history---in the act of creation of human society---is the *true* nature of man; hence nature as it comes into being through industry, though in an *estranged* form, is true *anthropological* nature. (355)
+
+In many ways these statements merely settle further into what has already been established in terms of prosthesis. But turning the vague, undefined tool, nature that the natural human uses to alter other nature, he points to a naturalized sense of industry as a way of understanding the material history of human essence. Industry can be understood as both the "world he himself has created" from above and species-scale productive activity, the social version of species-being narrowed to a point. But then, Marx is not talking about industry itself as a static entity. Rather, he is drawing our attention to the "history" of industry on top of its "*objective*" state; the history of industry and the history of the human are extensively interacting here as they do in Marx's later work. So the "history" that is the "true natural history of man" has to be understood in terms of the history of industry, or in other words, the changing capabilities *of the species* through advancements in means of production.
+
+We have arrived back in the familiar territory of Marx's later work and Marxist criticism since. The endless supercession that is inherent to human history runs through the historical-materialist paradigm of revolutions in and of the means of production. Each successive historical epoch is begat by the one preceding it; to reverse the emphasis and make it more Hegelian, each historical epoch produces the means of its own supercession and negation.^[c.f. -- see note in response for class] What Marx's *Economic and Philosophical Manuscripts of 1844* add to the discussion, though, is that this historical progress is now a way of thinking a mutable, constantly developing species-essence that is forever surpassing itself---forever breaking out of its own category, as Chakrabarty showed in his 2009 revitalization of the species discussion.
+
+#Species-Being in the Anthropocene
+
+Now, as Chakrabarty has shown us, the human species has broken definitively out of the category of biological species. Prosthesis 
+
+
 [what does this do to the species? /pivoting into a discussion of history; see about coming back for Donna Haraway later; it may be better ot just return to Chakrabarty later]
-
-and commodity fetishism. Capitalism itself and the larger historical materialist system that describes Capital relations, insofar as it becomes the means of regaining the species-being essence that has been lost from what it means to be human, becomes part of Marx's definition of species.
-
-These Hegelian lineages and divergences had to be established to consider the status of non-human nature as it relates to species being: [nature as inorganic body, etc.
-
