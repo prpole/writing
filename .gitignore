@@ -1,0 +1,9 @@
+_site/
+_trash/
+*.pdf
+*.odt
+*.doc
+*.docx
+*.xls
+*.swp
+*.spo
