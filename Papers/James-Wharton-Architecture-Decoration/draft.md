@@ -1,10 +1,12 @@
 ***I may need to change all this to talk about spatio-relational structures and not the appearance of actual architecture, I don't think the text supports what I'm saying. So not specifically buildings, but architectural use of space narratively....
 
-# 1-2 page intro-to-intro, snag the attentionz, get to thesis fast
-Thesis: 
-In these two novels, architectural design and interior design, or decorating, serve distinct purposes: architecture tends to facilitate relationality, while giving the relations it facilitates the cast of a given space's aesthetic; decoration, on the other hand, becomes an aesthetic expression of the individual responsible for it, and is therefore a form of relationality in itself. While *The Portrait of a Lady* and *The House of Mirth* tend more toward architectural and decorative aesthetics respectively, both contain elements of each and appear to conform to the same literary use of each type of design.
+*The Portrait of a Lady* and *The House of Mirth* are novels full of houses. Gardencourt and Bellomont, the manors at the center of each, in many senses could not be more different. The former is secluded and ancient, tucked away near the Thames, home to an aging banker and his consumptive son---it gets visitors, but it is far from a social hub. The latter is a destination for New York's socialites and a site of most events one ought not to miss, a pinnacle of good taste and good breeding. Each becomes a symbol to the heroine of its novel, albeit of wildly different things: Gardencourt of relative security and reliable social relationships, and Bellomont of unthinking excess and the ease of limitless wealth. It might be excused to think of these as novels of spaces as much as of people.
 
-# James on Architecture, Wharton on Decoration ; 4-page intro/criticism/nonfic
+Despite this shared concern with the narrative construction of space, however, the novels create and use space in very different ways, to very different ends. Henry James's stated interest in thinking of his fiction in terms of architecture is often read metaphorically as a reference to the complex structure of his novels---a reading that is justified by some of the more overt references to architecture in his theoretical and critical writing. This reading of space as a metaphor for novelistic structure on its own, though, misses his masterful manipulation of spatial forms in the scenes themselves to facilitate and mirror social relationships. Meanwhile, Edith Wharton's use of space is often read in terms of architectural space and relationality---a reading more appropriately reserved for James---while her interest in interior decorating as a form of aesthetic self-expression is lost. 
+
+Comparing the use and construction of space in the two novels allows the narrative use of designed space in each to come into focus. It also isolates a difference in the aesthetic capacities of architecture and decoration, forms that are related but contain important differences in their narrative capabilities. In these two novels, architecture and decorating serve distinct purposes: architecture tends to facilitate relationality, while giving the relations it facilitates the cast of a given space's aesthetic; decoration, on the other hand, becomes an aesthetic expression of the individual responsible for it, and is therefore a form of relationality in itself. This paper will argue that *The Portrait of a Lady* tending more toward an architectural spatial aesthetic and *The House of Mirth* tending toward a more decorative aesthetic, and a comparison of the two aesthetics will reveal spatial corollaries for the construction of relational and individual subjectivities that defines characterization in the two novels.
+
+# The Architecture of Relational Spaces
 
 ***need a working definition of his architectural use of space---he isn't actually using buildings, here. It's like he's using a semi-painterly, semi-architectural hybrid
 
@@ -84,7 +86,7 @@ In comparison to James's use of space, then, in which visual and spatial forms f
 
 # Conclusion 1-2 pp
 
-	- How do I generalize this to a more fundamental statement about the uses of decorating and architecture more generally? Something about constructing space? Do I go to domestic labor, or what?
+The divergent uses of constructed narrative space that I have identified in *The Portrait of a Lady* and *The House of Mirth* characterize a larger distinction between the authors of the two novels, specifically the way they approach the construction of character. The famously relational approach to subjectivity that has been widely noted in James's novels determines the way he manipulates the physical settings of interactions. In contrast, the tension in Wharton between the spontaneous expression of desires and the careful cultivation of self that remain so impossible to reconcile throughout the novel only becomes further complicated in decorative self-expression, which attains the invisibility of comfort in its ideal state but requires a studied application of principles to acquire that state. Beneath these differences in the two authors' construction of character and space alike, there lies a more fundamental disagreement about whether the basic unit of subjectivity is the relation or the individual. These readings of space, then, are unlikely to go against the grain of much criticism but the previous readings of space that seem to ignore the literal for the metaphorical architectures in James and unite architecture and interior design in Wharton. In studying novelists as concerned with narrative spatial construction as these, however, it is important to attend to both the theoretical basis of their use of spatial design and its narrative applications---which do correspond, as demonstrated above, but in unexpected ways. 
 
 [^1]: Liisa Stephenson's "Decorating Fiction: Edith Wharton's Literary Architecture" is addressed more fully below. Judith Fryer's *Felicitious Space* focuses on the floorplan of Wharton's home as a proxy for decoration, and discusses the library of Bellomont as a private space to emphasize the modular nature of her preferred home design (55-75). Both seem to me to dangerously conflate the two as they appear in fiction. The key difference, as I will argue more closely in reading *The House of Mirth*, is that architecture is an aesthetic primarily of containment while decorating is a more expressive medium. The latter retains the sense of aesthetic agency that the former obscures.
 
@@ -94,18 +96,3 @@ Some quotes:
 "To James, then, 'form' seems to be a shape or 'frame'-it limits and encloses the subject, surrounds the scene, determines the scope-and a position, a distance or angle, a vantage point, what we more often think of as literary or narrative technique" (185) Ellen Eve Frank (qtd. in Machlan)
 
 "In Portrait, houses do not only set the scene; they suggest a course of action." Machlan. But need they do one or the other? Seems to undercut the relational aspects of James's characters
-
-
-The use of architectural aesthetics to foster relationality is so strong that it even creates social relationships where they would seem impossible---between, for example, human and object. [ - museum, moment in which Warburton (?) comes upon Isabel in museum; sociality of sculpture and quality of light ]
-
-Cut for time: 
-
-**do that wacky thing where I use Merle to introduce Wharton's decorating
-
-[Although James favors the architectural paradigm of spatial aesthetics and the relationality it engenders (as is evident in the proliferation of architectural examples), he also makes use of the more expressive aesthetic of decoration. ...[ - anti-architectural, defining the decorative; Merle and items/things/decoration as extension of self. This is the alternative pole to relational architecture ] 
-
-This willingness to include the decorative does not destabilize the dominance of architectural aesthetics in *Portrait*. Far from it: the clear difference in the spatial logics only more firmly establishes James's use of architecture by contrast. The logic of decoration, though, will appear in a very similar form in Wharton's more decoration-centric novel.]
-
-Just as Madame Merle provides James with a dose of the decorative, expressive aesthetic, elements of architecture appear in *House of Mirth* that work in a distinctly Jamesian way. 
-
-	- first, wharton shares James's use of architecture as such; think library (48), a space that enables interaction; counter Stephenson on decorative function of books by focusing on social space
