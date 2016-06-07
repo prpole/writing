@@ -1,7 +1,0 @@
---- sustainable writing
-
-combine dennis's version of sustainability with the environmental one;
-    
-    - consider that Stack Exchange post that compares energy use for an email given various practices. Then maybe find some way to compare the average cpu use translated into energy use for using a word processor versus a plaintext editor with pandoc; the idea here would be to challenge the alleged immateriality of the virtual by showing that digital practices are in fact deeply material, but in ways that are just easier to forget
-    - I'm thinking all this because of j. hillis miller's essay on historicism and the material base. He sweepingly dismisses the material by making it (via hegel) subject to language, linguistically understood and therefore determined. This is a counterpunch to that by reminding us that the purely linguistic, where verything we see and do is determined by CODES, is still fundamentally material; all those ones and zeros imprinted on a magnetized harddrive seeping into water tables in rural China; the hard problem of consciousness versus the hardware/software split, which is solved by firmware; (theorizing firmware?)
-    - would need a careful back-and-forth between theory and empirical data, proving the effects of plaintext on cpu use and eventually arguing for more theoretically and literally ecologically-minded hardware and software while putting this into the context of theoretical and philosphical battles over idealism and materialism; again maybe via Miller, in contrast with the new materialisms
